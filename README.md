@@ -23,3 +23,5 @@ __Жирный__
 [Есть вопросы - гугли!](https://www.google.com)
 
 ![А это я](https://sun9-63.userapi.com/JKCdBwUDuAsWGBO6sZa3roUwqhcbuwEVitY9SA/fBEYUXvt1bE.jpg)
+
+Делаю __вид__, что я чем-то ~~увлеченно~~ занимаюсь для выполнения задания со Stash
